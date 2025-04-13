@@ -1,0 +1,22 @@
+# Prompts used for ByteSize & TimeDuration Parser Enhancement in CDAP Wrangler
+
+1. "i am working on an assignment that involves enhancing the CDAP Wrangler library. I need to support Byte Size and Time Duration values in the parser. The grammar is written in ANTLR."
+
+2. "can you help me define a grammar rule in ANTLR for parsing byte sizes like 10KB, 1.5MB, etc."
+
+3. "now help me integrate this into the TreeVisitor for handling BYTE_SIZE"
+
+4. "now help me add a new directive that uses both ByteSize and TimeDuration and performs aggregation"
+
+5. "i want to write unit tests for my ByteSize and TimeDuration token classes"
+
+6. "guide me on how to write integration tests using TestingRig and TestRecipe"
+
+7. "how do i commit this to my git?"
+
+8. "i want a readme that summarizes what I implemented, what new tokens were added, directive created, and tests written"
+
+9. "now generate a prompts.txt file for me that lists all AI help I took"
+
+# Tools used:
+- ChatGPT for ANTLR grammar assistance, Java parser logic patterns, integration test setup, documentation, and Git help.
